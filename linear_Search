@@ -19,3 +19,9 @@ int main()
 int ar[]={12,4,5,9,12,4,8,4};	
 search(ar,8,4);
 }
+//Why not to use bsearch instead. it work as follow.
+int bsearch(){
+int a[],size,low,high,mid,cnt;
+cout<<"Enter the size of the array";
+cin>>size;
+}
